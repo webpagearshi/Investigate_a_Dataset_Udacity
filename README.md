@@ -6,4 +6,5 @@
 - The top 10 movies which made the highest profit?
 - Which genre are more profitable than others?
 - Is there a corelation between budget and profit?
-This project is a part of the Udacity coursework.
+
+> This project is a part of the Udacity coursework.
